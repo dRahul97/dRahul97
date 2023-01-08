@@ -1,5 +1,8 @@
-<h1 align="center">Hi, I'm Rahul Dudka 👋</h1>
-<h3 align="justify">Innovative, result-driven Web Developer with sound knowledge in JavaScript and React in the Frontend. Worked on different projects as leader and co-leader. Keen to find a challenging position within an ambitious company. Interested in learning and absorbing new tech in the growing world.</h3>
+<div align="center">
+  <img style="width: 70%; max-width: 100%; display: inline-block;" src="https://camo.githubusercontent.com/b40aa6e0a49e00065a11b3773f9f4d7098be2fed4da538a0a32abb74992a7869/68747470733a2f2f726973686176616e616e642e6769746875622e696f2f7374617469632f696d616765732f6772656574696e67732e676966">
+</div>
+
+<h3 align="center">I'm Rahul Dudka! 👋 A devloping developer.</h3>
 
 ## 💫 About me:
 - 🌱 I’m currently learning **MERN Stack Development.**
