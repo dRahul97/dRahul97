@@ -7,13 +7,13 @@
 ## 💫 About me:
 - 🌱 I’m currently learning **MERN Stack Development.**
 
-- 👨‍💻 All of my projects are available at [https://drahul97.github.io/](https://drahul97.github.io/)
+- 👨‍💻 All of my projects are available at [*Portfolio*](https://drahul97.github.io/)
 
 - 💬 Ask me about **React, Redux, JavaScript, Next.js**
 
 - 📫 How to reach me **drahul.official@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1WndJReS9UjQ1N1W9L-NB53CbCtrFRbmp/view?usp=share_link](https://drive.google.com/file/d/1WndJReS9UjQ1N1W9L-NB53CbCtrFRbmp/view?usp=share_link)
+- 📄 Know about my experiences [*Resume*](https://drive.google.com/file/d/1WndJReS9UjQ1N1W9L-NB53CbCtrFRbmp/view?usp=share_link)
 
 - ⚡ Fun fact **I am Nice Guy!**
 
