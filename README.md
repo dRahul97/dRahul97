@@ -35,7 +35,8 @@
 
 
 ## 🏆 GitHub Trophies
-
-  ![](https://github-profile-trophy.vercel.app/?username=dRahul97&theme=radical&no-frame=false&no-bg=false&margin-w=10&display=flex&gap=10)
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dRahul97&theme=radical&no-frame=false&no-bg=false&margin-w=15">
+</p>
+  
 ---
