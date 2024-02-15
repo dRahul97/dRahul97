@@ -1,4 +1,4 @@
-
+![image](https://github.com/dRahul97/dRahul97/assets/90616584/6c3b2252-3e5b-4684-a5c0-4f0dda62e089)
 <h3 align="center">I'm Rahul Dudka! 👋 A developing developer.</h3>
 
 [![](https://visitcount.itsvg.in/api?id=dRahul97&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -57,8 +57,10 @@
 
 </div>
 
+## ⚡Github Metrix:
 
-## 🏆 GitHub Trophies
+
+##  Connect With Me
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dRahul97&theme=radical&no-frame=false&no-bg=false&margin-w=15">
 </p>
