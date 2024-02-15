@@ -1,7 +1,13 @@
-![image](https://github.com/dRahul97/dRahul97/assets/90616584/6c3b2252-3e5b-4684-a5c0-4f0dda62e089)
-<h3 align="center">I'm Rahul Dudka! 👋 A developing developer.</h3>
-
 [![](https://visitcount.itsvg.in/api?id=dRahul97&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<br/>
+<h3 align="center" >I'm Rahul Dudka! 👋 A developing developer.</h3>
+<br/>
+
+
+<div width="50%" ><i> <b> A passionate Full Stack Web Developer, capable of writing production-ready code using ReactJS, Redux, and CSS on the frontend, NodeJS, and Express on the backend to build a single page application. </b></i></div>
+<hr/>
+
 ## 💫 About me:
 <img align="right"  src="https://camo.githubusercontent.com/0dbe167d7b778f5e825114a095ad46a2c852ba91fc82ec2d4fd8865c67ecd2a1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" width="50%" margin="-500px 0 0 0"/>
 
@@ -58,11 +64,22 @@
 </div>
 
 ## ⚡Github Metrix:
+<div align="center" >
+ 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dRahul97&theme=github_dark" width="625em"  >
+</div>
 
 
-##  Connect With Me
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dRahul97&theme=radical&no-frame=false&no-bg=false&margin-w=15">
-</p>
+
+## 🤝 Connect With Me
+ <p align="left" dir="auto">
+    <a href="https://www.linkedin.com/in/rahul-dudka-23557a1a1/" rel="nofollow"><img width="40px" src="https://camo.githubusercontent.com/079dafc621fa1418fccb5ce2cf7391407001146e431513f1e8595e0d85979939/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f6c696e6b6564696e2e706e67" data-canonical-src="https://img.icons8.com/fluent/48/000000/linkedin.png" style="max-width: 100%;"></a>
+    <a href="https://twitter.com/rahul_dudka" rel="nofollow"><img width="40px" src="https://camo.githubusercontent.com/3e07b48d170b37d35abb01c646ba4c8c46521d2729b45f3cb69626438c6f57f9/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f747769747465722e706e67" data-canonical-src="https://img.icons8.com/fluent/48/000000/twitter.png" style="max-width: 100%;"></a>
+    </p>
+<!--   <img src="https://github-profile-trophy.vercel.app/?username=dRahul97&theme=radical&no-frame=false&no-bg=false&margin-w=15"> -->
+
+<h3 align="center" >
+ <i>🚀🙋‍♂️ Thank You for giving your valuable time to view my GitHub Profile 🙋‍♂️ 🚀</i>
+</h3>
   
----
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" height="12px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
